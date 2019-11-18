@@ -1,0 +1,16 @@
+﻿[Form1.ADOTable1]
+Coordinates=77,10,122,58
+
+[Timer1]
+Coordinates=10,146,55,36
+
+[Form1.ADOQuery1]
+Coordinates=209,10,125,58
+
+[Form1.DataSource1]
+Coordinates=10,78,130,58
+
+[]
+Coordinates=10,10,57,58
+Visible=True
+

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Users\Администратор\Desktop\Обмін валют\Unit1.dfm=C:\Users\Администратор\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.817,=C:\Users\Администратор\Desktop\Обмін валют\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,=C:\Users\Администратор\Desktop\Обмін валют\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,C:\Users\Администратор\Desktop\Обмін валют\Project1.cbproj=C:\Users\Администратор\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cpp,C:\Users\Администратор\Desktop\Обмін валют\Unit1.cpp=C:\Users\Администратор\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.h,C:\Users\Администратор\Desktop\Обмін валют\Unit1.h=C:\Users\Администратор\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,=C:\Users\Администратор\Desktop\Обмін валют\Unit3.cpp</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1.res"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
